@@ -1,0 +1,12 @@
+Record=TopLevelDocument|FileName=SPEC-A7-TOP.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=SPEC-A7-TOP.SchDoc|Designator=U_Clocks_PLL|SchDesignator=U_Clocks_PLL|FileName=Clocks_PLL.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Clocks_PLL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SPEC-A7-TOP.SchDoc|Designator=U_DIFF_DELAY_FANOUT|SchDesignator=U_DIFF_DELAY_FANOUT|FileName=DIFF_DELAY_FANOUT.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=DIFF_DELAY_FANOUT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SPEC-A7-TOP.SchDoc|Designator=U_FPGA_14_15|SchDesignator=U_FPGA_14_15|FileName=FPGA_14_15.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=FPGA_14_15.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SPEC-A7-TOP.SchDoc|Designator=U_VCXO_25M_DDMTD|SchDesignator=U_VCXO_25M_DDMTD|FileName=VCXO_25M_DDMTD.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=VCXO_25M_DDMTD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=SPEC-A7-TOP.SchDoc|Designator=U_VCXO_25M_PTP|SchDesignator=U_VCXO_25M_PTP|FileName=VCXO_25M_PTP.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=VCXO_25M_PTP.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=SPEC-A7-TOP.SchDoc|FileName=FPGA_34.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=SPEC-A7-TOP.SchDoc|FileName=FPGA_MGT.SchDoc|SheetNumber=9
+Record=NoMainPathDocument|SourceDocument=SPEC-A7-TOP.SchDoc|FileName=FPGA_PWR.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=SPEC-A7-TOP.SchDoc|FileName=Power.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=SPEC-A7-TOP.SchDoc|FileName=SFP.SchDoc|SheetNumber=12
+Record=NoMainPathDocument|SourceDocument=SPEC-A7-TOP.SchDoc|FileName=XO_125M.SchDoc|SheetNumber=11
