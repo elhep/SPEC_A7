@@ -1,0 +1,63 @@
+Change component parameters: Designator = "J14" ("J14"); Footprint = "PCI Express x4"; UniqueID = "\XOPCBRAY\NCBLSJTP" ("\XOPCBRAY\NCBLSJTP")
+Change component parameters (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Component Type"; Value = "Standard (No BOM)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentHeight"; Value = "0mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CreateDate"; Value = "03.12.2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Family"; Value = "PCI Express x4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\PCI Express x4.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "14.12.2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "PCI-SIG"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounted"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Description"; Value = "64 contacts Board Edge PCI Express x4 Connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "PCI Express x4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "64"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPC1709X100N
+Add Pin To Net: Unknown Pin: Pin C303-1
+Add Pin To Net: Unknown Pin: Pin C303-2
+Added Pin To Net: NetName=NetJ14_a1 Pin=J14-A1
+Added Pin To Net: NetName=P12V0 Pin=J14-A2
+Added Pin To Net: NetName=P12V0 Pin=J14-A3
+Added Pin To Net: NetName=GND Pin=J14-A4
+Added Pin To Net: NetName=PCIe_RST Pin=J14-A11
+Added Pin To Net: NetName=GND Pin=J14-A12
+Added Pin To Net: NetName=PCIe_REFCLK_P Pin=J14-A13
+Added Pin To Net: NetName=PCIe_REFCLK_N Pin=J14-A14
+Added Pin To Net: NetName=GND Pin=J14-A15
+Added Pin To Net: NetName=PCIe_PET0_P Pin=J14-A16
+Added Pin To Net: NetName=PCIe_PET0_N Pin=J14-A17
+Added Pin To Net: NetName=GND Pin=J14-A18
+Added Pin To Net: NetName=GND Pin=J14-A20
+Added Pin To Net: NetName=PCIe_PET1_P Pin=J14-A21
+Added Pin To Net: NetName=PCIe_PET1_N Pin=J14-A22
+Added Pin To Net: NetName=GND Pin=J14-A23
+Added Pin To Net: NetName=GND Pin=J14-A24
+Added Pin To Net: NetName=GND Pin=J14-A27
+Added Pin To Net: NetName=GND Pin=J14-A28
+Added Pin To Net: NetName=GND Pin=J14-A31
+Added Pin To Net: NetName=P12V0 Pin=J14-B1
+Added Pin To Net: NetName=P12V0 Pin=J14-B2
+Added Pin To Net: NetName=P12V0 Pin=J14-B3
+Added Pin To Net: NetName=GND Pin=J14-B4
+Added Pin To Net: NetName=GND Pin=J14-B7
+Added Pin To Net: NetName=GND Pin=J14-B12
+Added Pin To Net: NetName=GND Pin=J14-B13
+Added Pin To Net: NetName=PCIe_PER0_P Pin=J14-B14
+Added Pin To Net: NetName=PCIe_PER0_N Pin=J14-B15
+Added Pin To Net: NetName=GND Pin=J14-B16
+Added Pin To Net: NetName=GND Pin=J14-B18
+Added Pin To Net: NetName=PCIe_PER1_P Pin=J14-B19
+Added Pin To Net: NetName=PCIe_PER1_N Pin=J14-B20
+Added Pin To Net: NetName=GND Pin=J14-B21
+Added Pin To Net: NetName=GND Pin=J14-B22
+Added Pin To Net: NetName=GND Pin=J14-B25
+Added Pin To Net: NetName=GND Pin=J14-B26
+Added Pin To Net: NetName=GND Pin=J14-B29
+Added Pin To Net: NetName=NetJ14_a1 Pin=J14-B31
+Added Pin To Net: NetName=GND Pin=J14-B32
+Add Class Member: Failed to add class member : Component C303 22uF
+Added Member To Class: ClassName=U_PCIe Member=Component J14 PCI Express x4
