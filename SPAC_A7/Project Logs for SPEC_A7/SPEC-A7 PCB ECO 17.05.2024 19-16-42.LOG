@@ -1,8 +1,0 @@
-Add Component: Footprint Not Found CAPC1709X100N
-Add Pin To Net: Unknown Pin: Pin C303-1
-Add Pin To Net: Unknown Pin: Pin C303-2
-Added Pin To Net: NetName=NetC166_2 Pin=C166-2
-Added Pin To Net: NetName=NetC166_2 Pin=TR1-6
-Added Net: Name=NetC166_2
-Add Class Member: Failed to add class member : Component C303 22uF
-Added Member To Class: ClassName=U_Clocks_PLL Member=Component IC14 AD9516-4BCPZ
