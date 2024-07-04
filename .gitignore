@@ -1,5 +1,9 @@
 *.html
-SPAC_A7/History/
-SPAC_A7/Project Outputs*
-SPAC_A7/Project Logs*
-SPAC_A7/__Previews*
+PCB/History/
+PCB/Project Outputs*
+PCB/Project Logs*
+PCB/__Previews*
+History/
+Poject Outputs*
+Project Logs*
+__Previews*
