@@ -628,92 +628,116 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document35]
+DocumentPath=SPEC_A7.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=c7445344-b988-43c4-a3fd-b49975a8b93b
 Description=Professional
 AllowFabrication=0
 ParameterCount=0
-VariationCount=27
-Variation1=Designator=OSC2|UniqueId=\FPDXWQOJ\NYBGKARK|Kind=1|AlternatePart=
+VariationCount=30
+Variation1=Designator=OSC2|UniqueId=\FPDXWQOJ\NYBGKARK|Kind=1|AlternatePart==Value
 ParamVariation1=ParameterName=Comment|VariantValue==Value
 ParamDesignator1=OSC2
-Variation2=Designator=R167|UniqueId=\ETAVSDVA\GZYENGED|Kind=1|AlternatePart=
+Variation2=Designator=R167|UniqueId=\ETAVSDVA\GZYENGED|Kind=1|AlternatePart==Value
 ParamVariation2=ParameterName=Comment|VariantValue==Value
 ParamDesignator2=R167
-Variation3=Designator=R168|UniqueId=\ETAVSDVA\OANTXREW|Kind=1|AlternatePart=
+Variation3=Designator=R168|UniqueId=\ETAVSDVA\OANTXREW|Kind=1|AlternatePart==Value
 ParamVariation3=ParameterName=Comment|VariantValue==Value
 ParamDesignator3=R168
-Variation4=Designator=R139|UniqueId=\ETAVSDVA\CUMUBFQB|Kind=1|AlternatePart=
+Variation4=Designator=R139|UniqueId=\ETAVSDVA\CUMUBFQB|Kind=1|AlternatePart==Value
 ParamVariation4=ParameterName=Comment|VariantValue==Value
 ParamDesignator4=R139
-Variation5=Designator=R141|UniqueId=\ETAVSDVA\OXXMTOXN|Kind=1|AlternatePart=
+Variation5=Designator=R141|UniqueId=\ETAVSDVA\OXXMTOXN|Kind=1|AlternatePart==Value
 ParamVariation5=ParameterName=Comment|VariantValue==Value
 ParamDesignator5=R141
-Variation6=Designator=R143|UniqueId=\ETAVSDVA\VRNXHXXB|Kind=1|AlternatePart=
+Variation6=Designator=R143|UniqueId=\ETAVSDVA\VRNXHXXB|Kind=1|AlternatePart==Value
 ParamVariation6=ParameterName=Comment|VariantValue==Value
 ParamDesignator6=R143
-Variation7=Designator=R144|UniqueId=\ETAVSDVA\IOPDNWQC|Kind=1|AlternatePart=
+Variation7=Designator=R144|UniqueId=\ETAVSDVA\IOPDNWQC|Kind=1|AlternatePart==Value
 ParamVariation7=ParameterName=Comment|VariantValue==Value
 ParamDesignator7=R144
-Variation8=Designator=R137|UniqueId=\ETAVSDVA\KRXWKRII|Kind=1|AlternatePart=
+Variation8=Designator=R137|UniqueId=\ETAVSDVA\KRXWKRII|Kind=1|AlternatePart==Value
 ParamVariation8=ParameterName=Comment|VariantValue==Value
 ParamDesignator8=R137
-Variation9=Designator=R138|UniqueId=\ETAVSDVA\PCRABEAF|Kind=1|AlternatePart=
+Variation9=Designator=R138|UniqueId=\ETAVSDVA\PCRABEAF|Kind=1|AlternatePart==Value
 ParamVariation9=ParameterName=Comment|VariantValue==Value
 ParamDesignator9=R138
-Variation10=Designator=R140|UniqueId=\ETAVSDVA\PTJWFEIT|Kind=1|AlternatePart=
+Variation10=Designator=R140|UniqueId=\ETAVSDVA\PTJWFEIT|Kind=1|AlternatePart==Value
 ParamVariation10=ParameterName=Comment|VariantValue==Value
 ParamDesignator10=R140
-Variation11=Designator=R142|UniqueId=\ETAVSDVA\URHEAKFH|Kind=1|AlternatePart=
+Variation11=Designator=R142|UniqueId=\ETAVSDVA\URHEAKFH|Kind=1|AlternatePart==Value
 ParamVariation11=ParameterName=Comment|VariantValue==Value
 ParamDesignator11=R142
-Variation12=Designator=R171|UniqueId=\YUHAVNKY\GESZOCVR|Kind=1|AlternatePart=
+Variation12=Designator=R171|UniqueId=\YUHAVNKY\GESZOCVR|Kind=1|AlternatePart==Value
 ParamVariation12=ParameterName=Comment|VariantValue==Value
 ParamDesignator12=R171
-Variation13=Designator=R173|UniqueId=\YUHAVNKY\ZRLOURSD|Kind=1|AlternatePart=
+Variation13=Designator=R173|UniqueId=\YUHAVNKY\ZRLOURSD|Kind=1|AlternatePart==Value
 ParamVariation13=ParameterName=Comment|VariantValue==Value
 ParamDesignator13=R173
-Variation14=Designator=R174|UniqueId=\YUHAVNKY\HCUNGTHM|Kind=1|AlternatePart=
+Variation14=Designator=R174|UniqueId=\YUHAVNKY\HCUNGTHM|Kind=1|AlternatePart==Value
 ParamVariation14=ParameterName=Comment|VariantValue==Value
 ParamDesignator14=R174
-Variation15=Designator=R176|UniqueId=\YUHAVNKY\WKDNKCVJ|Kind=1|AlternatePart=
+Variation15=Designator=R176|UniqueId=\YUHAVNKY\WKDNKCVJ|Kind=1|AlternatePart==Value
 ParamVariation15=ParameterName=Comment|VariantValue==Value
 ParamDesignator15=R176
 Variation16=Designator=J19|UniqueId=\LMYYFXFF\PUEXEMPZ|Kind=1|AlternatePart=
-Variation17=Designator=R125|UniqueId=\LMYYFXFF\XSQPLIEU|Kind=1|AlternatePart=
+Variation17=Designator=R125|UniqueId=\LMYYFXFF\XSQPLIEU|Kind=1|AlternatePart==Value
 ParamVariation16=ParameterName=Comment|VariantValue==Value
 ParamDesignator16=R125
-Variation18=Designator=R129|UniqueId=\LMYYFXFF\ZUTIKSLJ|Kind=1|AlternatePart=
+Variation18=Designator=R129|UniqueId=\LMYYFXFF\ZUTIKSLJ|Kind=1|AlternatePart==Value
 ParamVariation17=ParameterName=Comment|VariantValue==Value
 ParamDesignator17=R129
-Variation19=Designator=R127|UniqueId=\LMYYFXFF\QQPQDEVV|Kind=1|AlternatePart=
+Variation19=Designator=R127|UniqueId=\LMYYFXFF\QQPQDEVV|Kind=1|AlternatePart==Value
 ParamVariation18=ParameterName=Comment|VariantValue==Value
 ParamDesignator18=R127
-Variation20=Designator=IC9|UniqueId=\AIURWTAK\VTEWBZXF|Kind=1|AlternatePart=
+Variation20=Designator=IC9|UniqueId=\AIURWTAK\VTEWBZXF|Kind=1|AlternatePart==Device
 ParamVariation19=ParameterName=Comment|VariantValue==Device
 ParamDesignator19=IC9
-Variation21=Designator=IC12|UniqueId=\FPDXWQOJ\NVXPLAWN|Kind=1|AlternatePart=
+Variation21=Designator=IC12|UniqueId=\FPDXWQOJ\NVXPLAWN|Kind=1|AlternatePart==Device
 ParamVariation20=ParameterName=Comment|VariantValue==Device
 ParamDesignator20=IC12
-Variation22=Designator=C44|UniqueId=\XPQBDEUC\DWWBAXXA|Kind=1|AlternatePart=
+Variation22=Designator=C44|UniqueId=\XPQBDEUC\DWWBAXXA|Kind=1|AlternatePart==Value
 ParamVariation21=ParameterName=Comment|VariantValue==Value
 ParamDesignator21=C44
-Variation23=Designator=C45|UniqueId=\XPQBDEUC\IHOTWLPI|Kind=1|AlternatePart=
+Variation23=Designator=C45|UniqueId=\XPQBDEUC\IHOTWLPI|Kind=1|AlternatePart==Value
 ParamVariation22=ParameterName=Comment|VariantValue==Value
 ParamDesignator22=C45
-Variation24=Designator=W1|UniqueId=\NGXEBDBW\OMFBMUOS|Kind=1|AlternatePart=
+Variation24=Designator=W1|UniqueId=\NGXEBDBW\OMFBMUOS|Kind=1|AlternatePart==Family
 ParamVariation23=ParameterName=Comment|VariantValue==Family
 ParamDesignator23=W1
-Variation25=Designator=W2|UniqueId=\NGXEBDBW\BDKBMKMZ|Kind=1|AlternatePart=
+Variation25=Designator=W2|UniqueId=\NGXEBDBW\BDKBMKMZ|Kind=1|AlternatePart==Family
 ParamVariation24=ParameterName=Comment|VariantValue==Family
 ParamDesignator24=W2
-Variation26=Designator=W3|UniqueId=\NGXEBDBW\RNAFRMNH|Kind=1|AlternatePart=
+Variation26=Designator=W3|UniqueId=\NGXEBDBW\RNAFRMNH|Kind=1|AlternatePart==Family
 ParamVariation25=ParameterName=Comment|VariantValue==Family
 ParamDesignator25=W3
-Variation27=Designator=W4|UniqueId=\NGXEBDBW\ONQUCAUK|Kind=1|AlternatePart=
+Variation27=Designator=W4|UniqueId=\NGXEBDBW\ONQUCAUK|Kind=1|AlternatePart==Family
 ParamVariation26=ParameterName=Comment|VariantValue==Family
 ParamDesignator26=W4
+Variation28=Designator=R206|UniqueId=\FPDXWQOJ\VFHACURE|Kind=1|AlternatePart=
+Variation29=Designator=R55|UniqueId=\UYSCAHGJ\DEIMRICS|Kind=1|AlternatePart=
+Variation30=Designator=R56|UniqueId=\UYSCAHGJ\WZZKHETE|Kind=1|AlternatePart=
 ParamVariationCount=26
+
+[Parameter1]
+Name=P_version
+Value=1.1
 
 [Configuration1]
 Name=Sources
@@ -990,6 +1014,11 @@ OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
+OutputType4=Wire Bonding Table
+OutputName4=Wire Bonding Table Report
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -1239,6 +1268,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1402,6 +1461,15 @@ Type147=1
 Type148=1
 Type149=1
 Type150=1
+Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
 
 [Difference Levels]
 Type1=1
@@ -1485,6 +1553,12 @@ Type78=1
 Type79=1
 Type80=1
 Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1640,6 +1714,16 @@ Type150=2
 Type151=2
 Type152=1
 Type153=1
+Type154=0
+Type155=0
+Type156=0
+Type157=0
+Type158=0
+Type159=0
+Type160=0
+Type161=0
+Type162=1
+Type163=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
